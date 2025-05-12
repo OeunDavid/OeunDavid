@@ -28,7 +28,7 @@
 <h3>🚀 Frameworks & Libraries</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,react,tailwind,dotnet" />
+    <img src="https://skillicons.dev/icons?i=flutter,react,dotnet" />
   </a>
 </p>
 
