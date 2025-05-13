@@ -21,14 +21,14 @@
 <h3>👨‍💻 Programming Languages</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,dart,html,css,js,java,php" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,dart,java" />
   </a>
 </p>
 
 <h3>🚀 Frameworks & Libraries</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,react,dotnet" />
+    <img src="https://skillicons.dev/icons?i=flutter,laravel,dotnet" />
   </a>
 </p>
 
