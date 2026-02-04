@@ -8,7 +8,7 @@
 
 <p>
   💻 I'm a passionate software developer who loves building apps, solving real-world problems, and learning new technologies. <br/>
-  🌱 Currently learning: Backend development with Java ( Spring ), php ( Laravel ), docker, and linux<br/>
+  🌱 Currently learning: Backend development with Java ( Spring ), php ( Laravel ), and linux<br/>
   📚 Interests: Flutter, Web Dev & AI <br/>
 </p>
 
